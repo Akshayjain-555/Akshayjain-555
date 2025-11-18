@@ -92,9 +92,13 @@ Commit by commit, skill by skill — real growth is happening here 💪
   <img src="https://komarev.com/ghpvc/?username=Akshayjain-555&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
-🔗 LinkedIn:  https://www.linkedin.com/in/akshaysethiaofficial?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshaysethiaofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-Akshay%20Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 🌍 Live Projects: (Coming soon)
 
