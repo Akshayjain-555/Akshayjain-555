@@ -6,7 +6,7 @@
 
 
 
-## 🌟 About Me
+### 🌟 About Me
 
 📌 Currently doing 100 Days of Code Challenge
 📌 Learning Web Development & AI step-by-step  
@@ -16,7 +16,7 @@
 
 
 
-## 🔧 Tech Stack I'm Learning
+### 🔧 Tech Stack I'm Learning
 
 | Technology | Status |
 |-----------|--------|
@@ -38,14 +38,14 @@
 </p>
 
 
-## 🚀 Current Focus
+### 🚀 Current Focus
 
 - Finishing HTML & CSS basics  
 - Publishing code consistently  
 - Making GitHub my **active portfolio**  
 
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|-----|
@@ -57,16 +57,25 @@
 
 
 
-## 📈 GitHub Activity
+### 📈 GitHub Activity
 
 I believe **Consistency > Motivation**  
 Commit by commit, skill by skill — real growth is happening here 💪  
 
-## 🤝 Connect with Me
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshayjain-555&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayjain-555&theme=tokyonight" height="165"/>
+</p>
+
+### 🤝 Connect with Me
 
 🔗 LinkedIn:  https://www.linkedin.com/in/akshaysethiaofficial?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 🌍 Live Projects: (Coming soon)
 
 
-## ⭐ If you’re also learning, let's grow together!
+### ⭐ If you’re also learning, let's grow together!
