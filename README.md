@@ -1,16 +1,63 @@
-## Hi there 👋
+<h2 align="center">👋 Hey there! I'm Akshay Jain</h2>
 
-<!--
-**Akshayjain-555/Akshayjain-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Web Developer in progress | 💡 AI-Driven Learner | 🛠️ Building real-world projects<br>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 About Me
+
+📌 Currently doing 100 Days of Code Challenge
+📌 Learning Web Development & AI step-by-step  
+📌 Working on a **Note Taking Web App** from scratch  
+📌 Sharing my journey on LinkedIn & GitHub 
+📌 Goal: Become a real-world Software Developer using AI as leverage.
+
+
+
+## 🔧 Tech Stack I'm Learning
+
+| Technology | Status |
+|-----------|--------|
+| HTML | In progress |
+| CSS | Coming soon |
+| JavaScript | Coming soon |
+| Git & GitHub | Using daily |
+| React | Later in the challenge |
+| Backend + Databases | Later in the challenge |
+
+
+
+## 🚀 Current Focus
+
+- Finishing HTML & CSS basics  
+- Publishing code consistently  
+- Making GitHub my **active portfolio**  
+
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|-----|
+| Edu-mantra | Website for IGNOU students | HTML |
+| akshdeep | Practice website project | HTML |
+| akshdeepforever | Creative personal project | HTML |
+
+> More exciting projects coming as I progress through 100 Days 🔥
+
+
+
+## 📈 GitHub Activity
+
+I believe **Consistency > Motivation**  
+Commit by commit, skill by skill — real growth is happening here 💪  
+
+## 🤝 Connect with Me
+
+🔗 LinkedIn:  https://www.linkedin.com/in/akshaysethiaofficial?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+🌍 Live Projects: (Coming soon)
+
+
+## ⭐ If you’re also learning, let's grow together!
