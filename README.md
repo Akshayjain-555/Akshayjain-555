@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/profile/banner.png" alt="Akshay Jain Banner" width="100%" />
+  <img src=".github/profile/banner.png" alt="Akshay Jain Banner" width="100%" />
 </p>
 
 <h2 align="center">👋 Hey there! I'm Akshay Jain</h2>
