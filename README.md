@@ -2,11 +2,11 @@
   <img src="banner.png" alt="Akshay Jain Banner" width="100%" />
 </p>
 
-<p align="center">
+<h2 align="center">
 🚀 Web Developer in progress | 💡 AI-Driven Learner | 🛠️ Building real-world projects<br>
-</p>
+</h2>
 
-<h2 align="center">👋 Hey there! I'm Akshay Jain</h2>
+<h1 align="center">👋 Hey there! I'm Akshay Jain</h1>
 
 ### 🌟 About Me
 
