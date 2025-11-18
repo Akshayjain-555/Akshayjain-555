@@ -21,6 +21,9 @@
 
 
 ### 🔧 Tech Stack I'm Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
 | Technology | Status |
 |-----------|--------|
