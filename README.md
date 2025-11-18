@@ -27,6 +27,15 @@
 | React | Later in the challenge |
 | Backend + Databases | Later in the challenge |
 
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io-badge/Git-F05032?logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" height="30"/>
+</p>
 
 
 ## 🚀 Current Focus
