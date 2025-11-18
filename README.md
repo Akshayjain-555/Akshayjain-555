@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="banner.png" alt="Akshay Jain Banner" width="100%" />
+  <img src="./.github/profile/banner.png" alt="Akshay Jain Banner" width="100%"/>
 </p>
 
-<h2 align="center">
-🚀 Web Developer in progress | 💡 AI-Driven Learner | 🛠️ Building real-world projects<br>
-</h2>
+<br>
+
+<h2 align="center">🚀 Web Developer in progress | 💡 AI-Driven Learner | 🛠️ Building real-world projects</h2>
+
+<br>
 
 <h1 align="center">👋 Hey there! I'm Akshay Jain</h1>
 
