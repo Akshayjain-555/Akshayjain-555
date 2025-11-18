@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="Akshay Jain Banner" width="100%" />
+</p>
 
 <h2 align="center">👋 Hey there! I'm Akshay Jain</h2>
 
