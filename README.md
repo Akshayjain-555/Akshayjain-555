@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Akshayjain-555/Akshayjain-555/blob/main/1763441614497%20(1).jpg" alt="Akshay Jain Banner"/>
+</p>
+
 <h2 align="center">👋 Hey there! I'm Akshay Jain</h2>
 
 <p align="center">
