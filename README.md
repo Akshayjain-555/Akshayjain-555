@@ -2,13 +2,11 @@
   <img src="banner.png" alt="Akshay Jain Banner" width="100%" />
 </p>
 
-<h2 align="center">👋 Hey there! I'm Akshay Jain</h2>
-
 <p align="center">
 🚀 Web Developer in progress | 💡 AI-Driven Learner | 🛠️ Building real-world projects<br>
 </p>
 
-
+<h2 align="center">👋 Hey there! I'm Akshay Jain</h2>
 
 ### 🌟 About Me
 
@@ -18,7 +16,7 @@
 📌 Sharing my journey on LinkedIn & GitHub 
 📌 Goal: Become a real-world Software Developer using AI as leverage.
 
-
+<hr style="border:1px solid #2e2e2e"/>
 
 ### 🔧 Tech Stack I'm Learning
 <p align="center">
