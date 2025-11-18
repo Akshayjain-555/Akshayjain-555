@@ -71,6 +71,20 @@ Commit by commit, skill by skill — real growth is happening here 💪
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayjain-555&theme=tokyonight" height="165"/>
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshayjain-555&theme=tokyonight&no-frame=true&column=4" />
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshayjain-555&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
 ### 🤝 Connect with Me
 
 🔗 LinkedIn:  https://www.linkedin.com/in/akshaysethiaofficial?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
